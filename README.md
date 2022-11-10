@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola! 👋
+Soy Miguel Angel Falcón, estudiante de Grado de Informática en la UOC.
 
-<!--
-**mfalconmu/mfalconmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👥 Miembro del equipo de [Discípulos de Esculapio](https://sites.google.com/uoc.edu/cardiovascular-risk-analyzer/team)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 JavaScipt, PHP
+- ⚙️ React
+- 💽 MySQL, SQL, Mongo
+- Devops, Sysadmin
+- Clouds: AWS, GCP, K8s 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [mfalconmu](https://sites.google.com/uoc.edu/miguel-angel-falcon)
+- [mfalconmu <AT> uoc.es](mail:mfalconmu@uoc.es) 
