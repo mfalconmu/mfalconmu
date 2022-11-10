@@ -12,4 +12,4 @@ Soy Miguel Angel Falcón, estudiante de Grado de Informática en la UOC.
 
 ## Contact
 - [mfalconmu](https://sites.google.com/uoc.edu/miguel-angel-falcon)
-- [mfalconmu <AT> uoc.es](mail:mfalconmu@uoc.es) 
+- [mfalconmu @ uoc.es](mail:mfalconmu@uoc.es) 
