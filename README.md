@@ -1,7 +1,7 @@
 ## Hola! 👋
 Soy Miguel Angel Falcón, estudiante de Grado de Ingeniería Informática en la UOC.
 
-- 👥 Miembro del equipo de AIWork - TER-0225-01 ( Aula 4 )
+- 👥 Miembro del equipo de AI4Work - TER-0225-01 ( Aula 4 )
 
 ## Primer Semestre 2025/2026
 - 75.561 - Trabajo en equipo en la Red - Aula 4
